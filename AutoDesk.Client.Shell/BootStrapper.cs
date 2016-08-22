@@ -26,7 +26,7 @@ namespace AutoDesk.Client.Shell
             ServerSettings.SetServiceUri("http://localhost:31932");
             var view = Container.TryResolve<MainPage>();
             Application.Current.RootVisual = view;
-            return view;
+            return view ;
         }
 
         protected override IModuleCatalog CreateModuleCatalog()
