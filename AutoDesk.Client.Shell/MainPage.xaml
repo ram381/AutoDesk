@@ -1,0 +1,136 @@
+﻿<UserControl x:Class="AutoDesk.Client.Shell.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
+    xmlns:vm= "clr-namespace:AutoDesk.Client.Shell.ViewModels"
+    xmlns:basics="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls"
+    xmlns:Regions="http://www.codeplex.com/prism"
+    xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+    mc:Ignorable="d"
+    Loaded="Page_Loaded"
+    d:DesignWidth="640" d:DesignHeight="480">
+    <UserControl.Resources>
+        <telerik:BooleanToVisibilityConverter x:Key="BoolToVis" />
+        <Style TargetType="telerik:RadTreeViewItem">
+            <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+        </Style>
+        <telerik:ContainerBindingCollection x:Name="TelerikBindingCollection">
+            <telerik:ContainerBinding PropertyName="IsExpanded" Binding="{Binding isExpanded, Mode=TwoWay}"/>
+        </telerik:ContainerBindingCollection>
+        <telerik:HierarchicalDataTemplate x:Key="ItemTemplate" ItemsSource="{Binding Subs}">
+            <TextBlock Text="{Binding Name}"></TextBlock>
+        </telerik:HierarchicalDataTemplate>
+    </UserControl.Resources>
+
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <telerik:RadRibbonView Name="radRibbonView1" VerticalAlignment="Top" ApplicationName="{Binding Title}" 
+                               IsApplicationMenuOpen="False" IsBackstageOpen="False" MinimizeButtonVisibility="Visible"
+                               ApplicationButtonVisibility="Collapsed">
+            <telerik:RadRibbonTab Header="Manage" IsSelected="True">
+                <telerik:RadRibbonButton Command="{Binding NewCarCompanyCommand}" Name="btnCreateCarCompany">
+                    <StackPanel>
+                        <Image Source="/AutoDesk.Client.Shell;component/Images/companies-icon.png" HorizontalAlignment="Center" Height="58" Width="70"/>
+                        <TextBlock Text="New Car Company" HorizontalAlignment="Center" />
+                    </StackPanel>
+                </telerik:RadRibbonButton>
+                <telerik:RadRibbonButton Command="{Binding NewCarModel}" CommandParameter="hsCreateCarModel" Name="btnCreateCarModel">
+                    <StackPanel>
+                        <Image Source="/AutoDesk.Client.Shell;component/Images/car.png" HorizontalAlignment="Center" Height="58" Width="77" />
+                        <TextBlock Text="New Car Model" HorizontalAlignment="Center" />
+                    </StackPanel>
+                </telerik:RadRibbonButton>
+                <telerik:RadRibbonButton Command="{Binding ShowPurchaserCommand}" Visibility="{Binding Path=IsShowPurchaser, Converter={StaticResource BoolToVis}}" CommandParameter="hsShowPurchaser" Name="btnShowPurchaser">
+                    <StackPanel>
+                        <Image Source="/AutoDesk.Client.Shell;component/Images/purchaser.png" HorizontalAlignment="Center" Height="58" Width="70" />
+                        <TextBlock Text="Show Purchaser" HorizontalAlignment="Center" />
+                    </StackPanel>
+                </telerik:RadRibbonButton>
+            </telerik:RadRibbonTab>
+        </telerik:RadRibbonView>
+
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0" Margin="20,0" Background="White" Height="15" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.ZIndex="1" Width="Auto">
+                <TextBlock Text="Search" Margin="2,0" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </Grid>
+            <Border Grid.Row="0" BorderThickness="2" BorderBrush="#ccc" CornerRadius="5" Margin="10,10">
+                <Grid Width="400" HorizontalAlignment="Left">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width=".30*" />
+                        <ColumnDefinition Width=".45*" />
+                        <ColumnDefinition Width=".15*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+                    <TextBlock Grid.Row="0" HorizontalAlignment="Center" Text="Enter Text:" VerticalAlignment="Center" Margin="5"/>
+                    <TextBox Grid.Column="1" Grid.Row="0" Text="{Binding Path= SearchText, Mode=TwoWay}" HorizontalAlignment="Left" Opacity="0.50" FontStyle="Italic" Height="25" Width="180" Margin="10,6">
+                    </TextBox>
+                    <Button Grid.Row="0" Grid.Column="2" Name="BtnSearch" Height="35" Width="60" Command="{Binding SearchCommand}" >Find</Button>
+                </Grid>
+            </Border>
+        </Grid>
+
+        <Grid Name="MainContent" Margin="10" Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <telerik:RadTreeView Grid.Column="0" Name="radTreeData" PathSeparator="♠" 
+                                 ItemsSource="{Binding treeData}"
+                                 ScrollViewer.VerticalScrollBarVisibility="Auto"
+                                 IsExpandOnSingleClickEnabled="True"
+                                 SelectedValuePath="treeData.Name" 
+                                 SelectionMode="Single"
+                                 IsVirtualizing="True" 
+                                 BringIntoViewMode="HeaderAndItems" 
+                                 IsEditable="True" 
+                                 ItemTemplate="{StaticResource ItemTemplate}"
+                                 SelectedItem="{Binding Path=SelectedModel, Mode=TwoWay}"
+                                 telerik:ContainerBinding.ContainerBindings="{StaticResource TelerikBindingCollection}"
+                                 >
+                <telerik:RadContextMenu.ContextMenu>
+                    <telerik:RadContextMenu Name="ContextMenu" Opened="ContextMenuOpened">
+                        <telerik:RadMenuItem Header="Add Car Model" Visibility="{Binding Path=CanAddNewCarModel, Converter={StaticResource BoolToVis}}" Command="{Binding AddNewCarModelCommand}" CommandParameter="{Binding ElementName=radTreeData,Path=SelectedItem,Mode=TwoWay}">
+                            <telerik:RadMenuItem.Icon>
+                                <Image Source="/AutoDesk.Client.Shell;component/Images/plus.png"  />
+                            </telerik:RadMenuItem.Icon>
+                        </telerik:RadMenuItem>
+                        <telerik:RadMenuItem Header="Add Purchaser" Visibility="{Binding Path=CanAddNewPurchaser, Converter={StaticResource BoolToVis}}" Command="{Binding AddPurchaserCommand}">
+                            <telerik:RadMenuItem.Icon>
+                                <Image Source="/AutoDesk.Client.Shell;component/Images/plus.png"  />
+                            </telerik:RadMenuItem.Icon>
+                        </telerik:RadMenuItem>
+                        <telerik:RadMenuItem Header="Update" x:Name="Update" Command="{Binding UpdateCommand}" CommandParameter="{Binding ElementName=radTreeData,Path=SelectedItem,Mode=TwoWay}">
+                            <telerik:RadMenuItem.Icon>
+                                <Image Source="/AutoDesk.Client.Shell;component/Images/update.png"  />
+                            </telerik:RadMenuItem.Icon>
+                        </telerik:RadMenuItem>
+                        <telerik:RadMenuItem Header="Delete" x:Name="Delete" Command="{Binding DeleteCommand}" CommandParameter="{Binding ElementName=radTreeData,Path=SelectedItem,Mode=TwoWay}">
+                            <telerik:RadMenuItem.Icon>
+                                <Image Source="/AutoDesk.Client.Shell;component/Images/delete.png"  />
+                            </telerik:RadMenuItem.Icon>
+                        </telerik:RadMenuItem>
+                    </telerik:RadContextMenu>
+                </telerik:RadContextMenu.ContextMenu>
+
+            </telerik:RadTreeView>
+
+            <basics:GridSplitter Grid.Column="1" Margin="1,16" VerticalAlignment="Stretch" HorizontalAlignment="Center" Visibility="{Binding Path=ShowGridSplitter, Converter={StaticResource BoolToVis}}"
+                                 Background="#c0cbd9"  Width="5" />
+
+            <ContentControl Grid.Column="2" Name="WorkspaceRegion" Visibility="{Binding Path=ShowPurchaserRegion, Converter={StaticResource BoolToVis}}" Regions:RegionManager.RegionName="ShowPurchaserRegion"/>
+        </Grid>
+    </Grid>
+</UserControl>

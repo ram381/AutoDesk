@@ -1,0 +1,22 @@
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Proxy\Bin\Debug\AutoDesk.Client.Proxy.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Proxy\Bin\Debug\AutoDesk.Client.Proxy.pdb
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Proxy\Bin\Debug\AppManifest.xaml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Proxy\Bin\Debug\AutoDesk.Client.Proxy.xap
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Proxy\Bin\Debug\AutoDesk.Client.ProxyTestPage.html
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Proxy\Bin\Debug\AutoDesk.PCL.Common.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Proxy\Bin\Debug\AutoDesk.PCL.Common.pdb
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Proxy\obj\Debug\AutoDesk.Client.Proxy.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Proxy\obj\Debug\AutoDesk.Client.Proxy.pdb
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Proxy\obj\Debug\XapCacheFile.xml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Proxy\obj\Debug\AutoDesk.Client.Proxy.csprojResolveAssemblyReference.cache
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Proxy\Bin\Debug\AutoDesk.Client.Proxy.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Proxy\Bin\Debug\AutoDesk.Client.Proxy.pdb
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Proxy\Bin\Debug\AppManifest.xaml
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Proxy\Bin\Debug\AutoDesk.Client.Proxy.xap
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Proxy\Bin\Debug\AutoDesk.Client.ProxyTestPage.html
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Proxy\Bin\Debug\AutoDesk.PCL.Common.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Proxy\Bin\Debug\AutoDesk.PCL.Common.pdb
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Proxy\obj\Debug\AutoDesk.Client.Proxy.csprojResolveAssemblyReference.cache
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Proxy\obj\Debug\AutoDesk.Client.Proxy.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Proxy\obj\Debug\AutoDesk.Client.Proxy.pdb
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Proxy\obj\Debug\XapCacheFile.xml

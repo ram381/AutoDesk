@@ -1,0 +1,41 @@
+﻿<xapCache source="C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Shell\Bin\Debug\AutoDesk.Client.Shell.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="8/22/2016 4:58:52 PM">
+  <file source="C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Shell\obj\Debug\AutoDesk.Client.Shell.dll" archivePath="AutoDesk.Client.Shell.dll" lastWriteTime="8/22/2016 4:58:45 PM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\AutoDesk.Client.Common.dll" archivePath="AutoDesk.Client.Common.dll" lastWriteTime="8/22/2016 4:45:38 PM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Proxy\Bin\Debug\AutoDesk.Client.Proxy.dll" archivePath="AutoDesk.Client.Proxy.dll" lastWriteTime="8/22/2016 4:45:49 PM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\AutoDesk.PCL.Common\bin\Debug\AutoDesk.PCL.Common.dll" archivePath="AutoDesk.PCL.Common.dll" lastWriteTime="8/22/2016 4:45:36 PM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Microsoft.Practices.Prism.dll" archivePath="Microsoft.Practices.Prism.dll" lastWriteTime="4/4/2016 1:58:30 PM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Microsoft.Practices.Prism.UnityExtensions.dll" archivePath="Microsoft.Practices.Prism.UnityExtensions.dll" lastWriteTime="4/4/2016 1:58:30 PM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Microsoft.Practices.ServiceLocation.dll" archivePath="Microsoft.Practices.ServiceLocation.dll" lastWriteTime="4/4/2016 1:58:30 PM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Microsoft.Practices.Unity.Silverlight.dll" archivePath="Microsoft.Practices.Unity.Silverlight.dll" lastWriteTime="4/4/2016 1:58:30 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.ComponentModel.DataAnnotations.dll" archivePath="System.ComponentModel.DataAnnotations.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\RIA Services\v1.0\Libraries\Silverlight\System.ServiceModel.DomainServices.Client.dll" archivePath="System.ServiceModel.DomainServices.Client.dll" lastWriteTime="4/12/2013 2:58:22 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\RIA Services\v1.0\Libraries\Silverlight\System.ServiceModel.DomainServices.Client.Web.dll" archivePath="System.ServiceModel.DomainServices.Client.Web.dll" lastWriteTime="4/12/2013 2:58:22 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.ServiceModel.Web.Extensions.dll" archivePath="System.ServiceModel.Web.Extensions.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.dll" archivePath="System.Windows.Controls.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.DataExtension.dll" archivePath="Telerik.DataExtension.dll" lastWriteTime="7/18/2016 8:19:43 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Controls.Data.dll" archivePath="Telerik.Windows.Controls.Data.dll" lastWriteTime="6/24/2016 11:33:07 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Controls.DataVisualization.dll" archivePath="Telerik.Windows.Controls.DataVisualization.dll" lastWriteTime="6/24/2016 11:33:07 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Controls.dll" archivePath="Telerik.Windows.Controls.dll" lastWriteTime="6/24/2016 11:33:07 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Controls.FixedDocumentViewers.dll" archivePath="Telerik.Windows.Controls.FixedDocumentViewers.dll" lastWriteTime="6/24/2016 11:33:07 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Controls.GridView.dll" archivePath="Telerik.Windows.Controls.GridView.dll" lastWriteTime="6/24/2016 11:33:07 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Controls.ImageEditor.dll" archivePath="Telerik.Windows.Controls.ImageEditor.dll" lastWriteTime="6/24/2016 11:33:07 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Controls.Input.dll" archivePath="Telerik.Windows.Controls.Input.dll" lastWriteTime="6/24/2016 11:33:07 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Controls.Navigation.dll" archivePath="Telerik.Windows.Controls.Navigation.dll" lastWriteTime="6/24/2016 11:33:07 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Controls.RibbonView.dll" archivePath="Telerik.Windows.Controls.RibbonView.dll" lastWriteTime="6/24/2016 11:33:07 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Controls.RichTextBoxUI.dll" archivePath="Telerik.Windows.Controls.RichTextBoxUI.dll" lastWriteTime="6/24/2016 11:33:07 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Controls.ScheduleView.dll" archivePath="Telerik.Windows.Controls.ScheduleView.dll" lastWriteTime="6/24/2016 11:33:08 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Data.dll" archivePath="Telerik.Windows.Data.dll" lastWriteTime="6/24/2016 11:33:08 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Documents.Core.dll" archivePath="Telerik.Windows.Documents.Core.dll" lastWriteTime="6/24/2016 11:33:08 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Documents.dll" archivePath="Telerik.Windows.Documents.dll" lastWriteTime="6/24/2016 11:33:08 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Documents.Fixed.dll" archivePath="Telerik.Windows.Documents.Fixed.dll" lastWriteTime="6/24/2016 11:33:08 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Documents.FormatProviders.Html.dll" archivePath="Telerik.Windows.Documents.FormatProviders.Html.dll" lastWriteTime="6/24/2016 11:33:08 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.dll" archivePath="Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.dll" lastWriteTime="6/24/2016 11:33:08 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Documents.FormatProviders.Rtf.dll" archivePath="Telerik.Windows.Documents.FormatProviders.Rtf.dll" lastWriteTime="6/24/2016 11:33:08 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Documents.Proofing.dll" archivePath="Telerik.Windows.Documents.Proofing.dll" lastWriteTime="6/24/2016 11:33:08 AM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\DLL\Telerik.Windows.Themes.Windows8.dll" archivePath="Telerik.Windows.Themes.Windows8.dll" lastWriteTime="6/24/2016 11:33:09 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Data.dll" archivePath="System.Windows.Data.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\Microsoft.CSharp.dll" archivePath="Microsoft.CSharp.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Xml.Linq.dll" archivePath="System.Xml.Linq.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.ComponentModel.Composition.dll" archivePath="System.ComponentModel.Composition.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Shell\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="8/9/2016 11:01:27 AM" />
+</xapCache>

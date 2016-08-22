@@ -1,0 +1,18 @@
+D:\Development Environment Setup\Projects\AutoDesk\BussinessRule\bin\Debug\BussinessRule.dll
+D:\Development Environment Setup\Projects\AutoDesk\BussinessRule\bin\Debug\BussinessRule.pdb
+D:\Development Environment Setup\Projects\AutoDesk\BussinessRule\bin\Debug\AutoDesk.PCL.Common.dll
+D:\Development Environment Setup\Projects\AutoDesk\BussinessRule\bin\Debug\Data.dll
+D:\Development Environment Setup\Projects\AutoDesk\BussinessRule\bin\Debug\AutoDesk.PCL.Common.pdb
+D:\Development Environment Setup\Projects\AutoDesk\BussinessRule\bin\Debug\Data.pdb
+D:\Development Environment Setup\Projects\AutoDesk\BussinessRule\obj\Debug\BussinessRule.csprojResolveAssemblyReference.cache
+D:\Development Environment Setup\Projects\AutoDesk\BussinessRule\obj\Debug\BussinessRule.dll
+D:\Development Environment Setup\Projects\AutoDesk\BussinessRule\obj\Debug\BussinessRule.pdb
+C:\Users\BRam\Desktop\AutoDesk\BussinessRule\bin\Debug\BussinessRule.dll
+C:\Users\BRam\Desktop\AutoDesk\BussinessRule\bin\Debug\BussinessRule.pdb
+C:\Users\BRam\Desktop\AutoDesk\BussinessRule\bin\Debug\AutoDesk.PCL.Common.dll
+C:\Users\BRam\Desktop\AutoDesk\BussinessRule\bin\Debug\Data.dll
+C:\Users\BRam\Desktop\AutoDesk\BussinessRule\bin\Debug\AutoDesk.PCL.Common.pdb
+C:\Users\BRam\Desktop\AutoDesk\BussinessRule\bin\Debug\Data.pdb
+C:\Users\BRam\Desktop\AutoDesk\BussinessRule\obj\Debug\BussinessRule.csprojResolveAssemblyReference.cache
+C:\Users\BRam\Desktop\AutoDesk\BussinessRule\obj\Debug\BussinessRule.dll
+C:\Users\BRam\Desktop\AutoDesk\BussinessRule\obj\Debug\BussinessRule.pdb

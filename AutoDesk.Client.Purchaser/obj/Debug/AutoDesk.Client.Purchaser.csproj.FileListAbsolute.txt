@@ -1,0 +1,390 @@
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.Client.Purchaser.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.Client.Purchaser.pdb
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AppManifest.xaml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.Client.Purchaser.xap
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.Client.PurchaserTestPage.html
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.Client.Common.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.Client.Proxy.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.PCL.Common.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Microsoft.Practices.Prism.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Microsoft.Practices.Unity.Silverlight.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ServiceModel.DomainServices.Client.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ServiceModel.DomainServices.Client.Web.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ServiceModel.Web.Extensions.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.Navigation.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.Windows.Controls.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.Windows.Data.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.Client.Common.pdb
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.PCL.Common.pdb
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ServiceModel.DomainServices.Client.xml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ServiceModel.DomainServices.Client.Web.xml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ServiceModel.Web.Extensions.xml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.Windows.Controls.xml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.Windows.Data.xml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\de\System.ServiceModel.DomainServices.Client.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\es\System.ServiceModel.DomainServices.Client.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fr\System.ServiceModel.DomainServices.Client.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\it\System.ServiceModel.DomainServices.Client.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ja\System.ServiceModel.DomainServices.Client.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ko\System.ServiceModel.DomainServices.Client.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ru\System.ServiceModel.DomainServices.Client.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\de\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\es\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fr\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\it\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ja\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ko\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ru\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.Web.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\de\System.ServiceModel.Web.Extensions.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\es\System.ServiceModel.Web.Extensions.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fr\System.ServiceModel.Web.Extensions.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\it\System.ServiceModel.Web.Extensions.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ja\System.ServiceModel.Web.Extensions.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ko\System.ServiceModel.Web.Extensions.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ru\System.ServiceModel.Web.Extensions.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hans\System.ServiceModel.Web.Extensions.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hant\System.ServiceModel.Web.Extensions.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ar\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\bg\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ca\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\cs\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\da\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\de\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\el\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\es\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\et\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\eu\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fi\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fr\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\he\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\hr\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\hu\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\id\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\it\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ja\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ko\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\lt\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\lv\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ms\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\nl\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\no\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\pl\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\pt\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ro\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ru\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\sk\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\sl\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\sv\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\th\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\tr\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\uk\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\vi\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\de\System.Windows.Data.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\es\System.Windows.Data.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fr\System.Windows.Data.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\it\System.Windows.Data.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ja\System.Windows.Data.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ko\System.Windows.Data.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ru\System.Windows.Data.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\obj\Debug\App.g.cs
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\obj\Debug\MainPage.g.cs
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\obj\Debug\View\ShowPurchaser.g.cs
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\obj\Debug\AutoDesk.Client.Purchaser.g.resources
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\obj\Debug\AutoDesk.Client.Purchaser.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\obj\Debug\AutoDesk.Client.Purchaser.pdb
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\obj\Debug\XapCacheFile.xml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.GridView.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Data.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.Input.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.Xml.Linq.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.Xml.Linq.xml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\de\System.Xml.Linq.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\es\System.Xml.Linq.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fr\System.Xml.Linq.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\it\System.Xml.Linq.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ja\System.Xml.Linq.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ko\System.Xml.Linq.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ru\System.Xml.Linq.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.Client.Proxy.pdb
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.Data.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.DataVisualization.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.FixedDocumentViewers.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.RibbonView.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.ScheduleView.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Microsoft.CSharp.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Documents.Core.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Documents.Fixed.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Documents.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ComponentModel.Composition.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Microsoft.CSharp.xml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ComponentModel.Composition.xml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\de\Microsoft.CSharp.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\es\Microsoft.CSharp.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fr\Microsoft.CSharp.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\it\Microsoft.CSharp.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ja\Microsoft.CSharp.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ko\Microsoft.CSharp.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ru\Microsoft.CSharp.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hans\Microsoft.CSharp.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hant\Microsoft.CSharp.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\de\System.ComponentModel.Composition.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\es\System.ComponentModel.Composition.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fr\System.ComponentModel.Composition.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\it\System.ComponentModel.Composition.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ja\System.ComponentModel.Composition.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ko\System.ComponentModel.Composition.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ru\System.ComponentModel.Composition.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hans\System.ComponentModel.Composition.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hant\System.ComponentModel.Composition.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\obj\Debug\View\AddPurchaser.g.cs
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Purchaser\obj\Debug\AutoDesk.Client.Purchaser.csprojResolveAssemblyReference.cache
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.Client.Purchaser.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.Client.Purchaser.pdb
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AppManifest.xaml
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.Client.Purchaser.xap
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.Client.PurchaserTestPage.html
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.Client.Common.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.Client.Proxy.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.PCL.Common.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Microsoft.Practices.Unity.Silverlight.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ServiceModel.DomainServices.Client.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ServiceModel.DomainServices.Client.Web.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ServiceModel.Web.Extensions.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.DataVisualization.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.FixedDocumentViewers.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.GridView.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.RibbonView.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Controls.ScheduleView.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Data.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.Windows.Controls.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.Windows.Data.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Microsoft.CSharp.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.Xml.Linq.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Documents.Fixed.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Telerik.Windows.Documents.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.Client.Common.pdb
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.Client.Proxy.pdb
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\AutoDesk.PCL.Common.pdb
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ServiceModel.DomainServices.Client.xml
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ServiceModel.DomainServices.Client.Web.xml
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ServiceModel.Web.Extensions.xml
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.Windows.Controls.xml
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.Windows.Data.xml
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\Microsoft.CSharp.xml
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.Xml.Linq.xml
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\System.ComponentModel.Composition.xml
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\de\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\es\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fr\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\it\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ja\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ko\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ru\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\de\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\es\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fr\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\it\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ja\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ko\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ru\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\de\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\es\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fr\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\it\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ja\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ko\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ru\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hans\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hant\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\de\Microsoft.CSharp.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\es\Microsoft.CSharp.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fr\Microsoft.CSharp.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\it\Microsoft.CSharp.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ja\Microsoft.CSharp.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ko\Microsoft.CSharp.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ru\Microsoft.CSharp.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hans\Microsoft.CSharp.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hant\Microsoft.CSharp.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ru\System.Xml.Linq.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\de\System.ComponentModel.Composition.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\es\System.ComponentModel.Composition.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\fr\System.ComponentModel.Composition.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\it\System.ComponentModel.Composition.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ja\System.ComponentModel.Composition.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ko\System.ComponentModel.Composition.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\ru\System.ComponentModel.Composition.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hans\System.ComponentModel.Composition.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\Bin\Debug\zh-Hant\System.ComponentModel.Composition.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\obj\Debug\AutoDesk.Client.Purchaser.csprojResolveAssemblyReference.cache
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\obj\Debug\App.g.cs
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\obj\Debug\MainPage.g.cs
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\obj\Debug\View\AddPurchaser.g.cs
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\obj\Debug\View\ShowPurchaser.g.cs
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\obj\Debug\AutoDesk.Client.Purchaser.g.resources
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\obj\Debug\AutoDesk.Client.Purchaser.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\obj\Debug\AutoDesk.Client.Purchaser.pdb
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Purchaser\obj\Debug\XapCacheFile.xml

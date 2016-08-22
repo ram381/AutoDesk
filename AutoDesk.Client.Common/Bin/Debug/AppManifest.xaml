@@ -1,0 +1,36 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="AutoDesk.Client.Common" EntryPointType="AutoDesk.Client.Common.App" RuntimeVersion="5.0.61118.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="AutoDesk.Client.Common" Source="AutoDesk.Client.Common.dll" />
+    <AssemblyPart x:Name="AutoDesk.PCL.Common" Source="AutoDesk.PCL.Common.dll" />
+    <AssemblyPart x:Name="Microsoft.Practices.Prism" Source="Microsoft.Practices.Prism.dll" />
+    <AssemblyPart x:Name="Microsoft.Practices.Prism.UnityExtensions" Source="Microsoft.Practices.Prism.UnityExtensions.dll" />
+    <AssemblyPart x:Name="Microsoft.Practices.ServiceLocation" Source="Microsoft.Practices.ServiceLocation.dll" />
+    <AssemblyPart x:Name="Microsoft.Practices.Unity.Silverlight" Source="Microsoft.Practices.Unity.Silverlight.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Controls.Data" Source="Telerik.Windows.Controls.Data.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Controls.DataVisualization" Source="Telerik.Windows.Controls.DataVisualization.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Controls" Source="Telerik.Windows.Controls.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Controls.FixedDocumentViewers" Source="Telerik.Windows.Controls.FixedDocumentViewers.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Controls.GridView" Source="Telerik.Windows.Controls.GridView.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Controls.ImageEditor" Source="Telerik.Windows.Controls.ImageEditor.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Controls.Input" Source="Telerik.Windows.Controls.Input.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Controls.Navigation" Source="Telerik.Windows.Controls.Navigation.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Controls.RibbonView" Source="Telerik.Windows.Controls.RibbonView.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Controls.RichTextBoxUI" Source="Telerik.Windows.Controls.RichTextBoxUI.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Controls.ScheduleView" Source="Telerik.Windows.Controls.ScheduleView.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Data" Source="Telerik.Windows.Data.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Documents.Core" Source="Telerik.Windows.Documents.Core.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Documents" Source="Telerik.Windows.Documents.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Documents.Fixed" Source="Telerik.Windows.Documents.Fixed.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Documents.FormatProviders.Html" Source="Telerik.Windows.Documents.FormatProviders.Html.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml" Source="Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Documents.FormatProviders.Rtf" Source="Telerik.Windows.Documents.FormatProviders.Rtf.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Documents.Proofing" Source="Telerik.Windows.Documents.Proofing.dll" />
+    <AssemblyPart x:Name="Telerik.Windows.Themes.Windows8" Source="Telerik.Windows.Themes.Windows8.dll" />
+    <AssemblyPart x:Name="System.Windows.Controls" Source="System.Windows.Controls.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.DataAnnotations" Source="System.ComponentModel.DataAnnotations.dll" />
+    <AssemblyPart x:Name="System.Windows.Data" Source="System.Windows.Data.dll" />
+    <AssemblyPart x:Name="Microsoft.CSharp" Source="Microsoft.CSharp.dll" />
+    <AssemblyPart x:Name="System.Xml.Linq" Source="System.Xml.Linq.dll" />
+    <AssemblyPart x:Name="System.ComponentModel.Composition" Source="System.ComponentModel.Composition.dll" />
+  </Deployment.Parts>
+</Deployment>

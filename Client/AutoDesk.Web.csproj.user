@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <UseIISExpress>true</UseIISExpress>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <SilverlightApplicationList>{90F7F603-5BF0-4F50-B481-3DC1B8E6BDB5}|..\AutoDesk.Client.Shell\AutoDesk.Client.Shell.csproj|ClientBin|False,{AD5FD085-6175-4075-851A-A23E2EA13FCA}|..\AutoDesk.Client.CarCompany\AutoDesk.Client.CarCompany.csproj|ClientBin|False,{08837B87-4E98-44FE-8524-A0359AEF2D13}|..\AutoDesk.Client.Purchaser\AutoDesk.Client.Purchaser.csproj|ClientBin|False,{CCA522C6-8FE0-44A4-A59F-25039C0D26BB}|..\AutoDesk.Client.Common\AutoDesk.Client.Common.csproj|ClientBin|False,{5D9B5FCD-62B5-45BA-8BC2-F84289372D2F}|..\AutoDesk.Client.Proxy\AutoDesk.Client.Proxy.csproj|ClientBin|False</SilverlightApplicationList>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <StartPageUrl>Choreograf.aspx</StartPageUrl>
+          <StartAction>SpecificPage</StartAction>
+          <AspNetDebugging>True</AspNetDebugging>
+          <SilverlightDebugging>True</SilverlightDebugging>
+          <NativeDebugging>False</NativeDebugging>
+          <SQLDebugging>False</SQLDebugging>
+          <ExternalProgram>
+          </ExternalProgram>
+          <StartExternalURL>
+          </StartExternalURL>
+          <StartCmdLineArguments>
+          </StartCmdLineArguments>
+          <StartWorkingDirectory>
+          </StartWorkingDirectory>
+          <EnableENC>True</EnableENC>
+          <AlwaysStartWebServerOnDebug>True</AlwaysStartWebServerOnDebug>
+          <ProjectOutputReferences>
+            <Ref Project="{90F7F603-5BF0-4F50-B481-3DC1B8E6BDB5}" Folder="ClientBin">AutoDesk.Client.Shell.xap</Ref>
+            <Ref Project="{AD5FD085-6175-4075-851A-A23E2EA13FCA}" Folder="ClientBin">AutoDesk.Client.CarCompany.xap</Ref>
+            <Ref Project="{08837B87-4E98-44FE-8524-A0359AEF2D13}" Folder="ClientBin">AutoDesk.Client.Purchaser.xap</Ref>
+            <Ref Project="{CCA522C6-8FE0-44A4-A59F-25039C0D26BB}" Folder="ClientBin">AutoDesk.Client.Common.xap</Ref>
+            <Ref Project="{5D9B5FCD-62B5-45BA-8BC2-F84289372D2F}" Folder="ClientBin">AutoDesk.Client.Proxy.xap</Ref>
+          </ProjectOutputReferences>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

@@ -1,0 +1,48 @@
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\roslyn\csc.exe
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\roslyn\System.Collections.Immutable.dll
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\roslyn\System.Reflection.Metadata.dll
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\roslyn\vbc.exe
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\roslyn\VBCSCompiler.exe
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\roslyn\VBCSCompiler.exe.config
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\AutoDesk.Client.dll.config
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\AutoDesk.Client.dll
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\AutoDesk.Client.pdb
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\AutoDesk.PCL.Common.dll
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\BussinessRule.dll
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\Data.dll
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\AutoDesk.PCL.Common.pdb
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\BussinessRule.pdb
+D:\Development Environment Setup\Projects\AutoDesk\Client\bin\Data.pdb
+D:\Development Environment Setup\Projects\AutoDesk\Client\obj\Debug\AutoDesk.Web.csprojResolveAssemblyReference.cache
+D:\Development Environment Setup\Projects\AutoDesk\Client\obj\Debug\AutoDesk.Client.dll
+D:\Development Environment Setup\Projects\AutoDesk\Client\obj\Debug\AutoDesk.Client.pdb
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\roslyn\csc.exe
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\roslyn\vbc.exe
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\AutoDesk.Client.dll.config
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\AutoDesk.Client.dll
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\AutoDesk.Client.pdb
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\AutoDesk.PCL.Common.dll
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\BussinessRule.dll
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\Data.dll
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\AutoDesk.PCL.Common.pdb
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\BussinessRule.pdb
+C:\Users\BRam\Desktop\AutoDesk\Client\bin\Data.pdb
+C:\Users\BRam\Desktop\AutoDesk\Client\obj\Debug\AutoDesk.Web.csprojResolveAssemblyReference.cache
+C:\Users\BRam\Desktop\AutoDesk\Client\obj\Debug\AutoDesk.Client.dll
+C:\Users\BRam\Desktop\AutoDesk\Client\obj\Debug\AutoDesk.Client.pdb

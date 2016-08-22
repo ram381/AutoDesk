@@ -1,0 +1,324 @@
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\AutoDesk.Client.Common.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\AutoDesk.Client.Common.pdb
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\AppManifest.xaml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\AutoDesk.Client.Common.xap
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\AutoDesk.Client.CommonTestPage.html
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\AutoDesk.PCL.Common.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Microsoft.Practices.Prism.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Microsoft.Practices.Unity.Silverlight.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.Data.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.DataVisualization.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.FixedDocumentViewers.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.GridView.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.Input.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.Navigation.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.RibbonView.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.ScheduleView.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Data.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Documents.Core.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Documents.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Documents.Fixed.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Documents.FormatProviders.Html.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Documents.FormatProviders.Rtf.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Documents.Proofing.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Themes.Windows8.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.Windows.Controls.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.Windows.Data.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Microsoft.CSharp.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.Xml.Linq.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.ComponentModel.Composition.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\AutoDesk.PCL.Common.pdb
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.Windows.Controls.xml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.Windows.Data.xml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Microsoft.CSharp.xml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.Xml.Linq.xml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.ComponentModel.Composition.xml
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ar\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\bg\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ca\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\cs\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\da\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\de\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\el\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\es\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\et\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\eu\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\fi\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\fr\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\he\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\hr\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\hu\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\id\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\it\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ja\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ko\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\lt\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\lv\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ms\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\nl\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\no\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\pl\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\pt\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ro\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ru\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\sk\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\sl\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\sv\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\th\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\tr\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\uk\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\vi\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\de\System.Windows.Data.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\es\System.Windows.Data.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\fr\System.Windows.Data.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\it\System.Windows.Data.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ja\System.Windows.Data.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ko\System.Windows.Data.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ru\System.Windows.Data.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\de\Microsoft.CSharp.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\es\Microsoft.CSharp.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\fr\Microsoft.CSharp.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\it\Microsoft.CSharp.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ja\Microsoft.CSharp.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ko\Microsoft.CSharp.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ru\Microsoft.CSharp.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hans\Microsoft.CSharp.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hant\Microsoft.CSharp.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\de\System.Xml.Linq.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\es\System.Xml.Linq.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\fr\System.Xml.Linq.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\it\System.Xml.Linq.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ja\System.Xml.Linq.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ko\System.Xml.Linq.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ru\System.Xml.Linq.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\de\System.ComponentModel.Composition.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\es\System.ComponentModel.Composition.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\fr\System.ComponentModel.Composition.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\it\System.ComponentModel.Composition.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ja\System.ComponentModel.Composition.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ko\System.ComponentModel.Composition.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ru\System.ComponentModel.Composition.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hans\System.ComponentModel.Composition.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hant\System.ComponentModel.Composition.resources.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\obj\Debug\AutoDesk.Client.Common.csprojResolveAssemblyReference.cache
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\obj\Debug\App.g.cs
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\obj\Debug\MainPage.g.cs
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\obj\Debug\AutoDesk.Client.Common.g.resources
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\obj\Debug\AutoDesk.Client.Common.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\obj\Debug\AutoDesk.Client.Common.pdb
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.Client.Common\obj\Debug\XapCacheFile.xml
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\AutoDesk.Client.Common.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\AutoDesk.Client.Common.pdb
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\AppManifest.xaml
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\AutoDesk.Client.Common.xap
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\AutoDesk.Client.CommonTestPage.html
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\AutoDesk.PCL.Common.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Microsoft.Practices.Unity.Silverlight.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.Data.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.DataVisualization.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.FixedDocumentViewers.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.GridView.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.RibbonView.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Controls.ScheduleView.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Data.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Documents.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Documents.Fixed.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Documents.FormatProviders.Html.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Documents.FormatProviders.Rtf.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Documents.Proofing.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Telerik.Windows.Themes.Windows8.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.Windows.Controls.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.Windows.Data.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Microsoft.CSharp.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.Xml.Linq.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\AutoDesk.PCL.Common.pdb
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.Windows.Controls.xml
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.Windows.Data.xml
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\Microsoft.CSharp.xml
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.Xml.Linq.xml
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\System.ComponentModel.Composition.xml
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\de\Microsoft.CSharp.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\es\Microsoft.CSharp.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\fr\Microsoft.CSharp.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\it\Microsoft.CSharp.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ja\Microsoft.CSharp.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ko\Microsoft.CSharp.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ru\Microsoft.CSharp.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hans\Microsoft.CSharp.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hant\Microsoft.CSharp.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ru\System.Xml.Linq.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\de\System.ComponentModel.Composition.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\es\System.ComponentModel.Composition.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\fr\System.ComponentModel.Composition.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\it\System.ComponentModel.Composition.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ja\System.ComponentModel.Composition.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ko\System.ComponentModel.Composition.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\ru\System.ComponentModel.Composition.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hans\System.ComponentModel.Composition.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\Bin\Debug\zh-Hant\System.ComponentModel.Composition.resources.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\obj\Debug\AutoDesk.Client.Common.csprojResolveAssemblyReference.cache
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\obj\Debug\App.g.cs
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\obj\Debug\MainPage.g.cs
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\obj\Debug\AutoDesk.Client.Common.g.resources
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\obj\Debug\AutoDesk.Client.Common.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\obj\Debug\AutoDesk.Client.Common.pdb
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\obj\Debug\XapCacheFile.xml

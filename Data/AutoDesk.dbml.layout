@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="AutoDesk">
+  <DataContextMoniker Name="/AutoDeskDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f981e490-ab7d-4da4-84a9-4196ca1db957" absoluteBounds="2.875, 1, 2, 1.9631982421875">
+      <DataClassMoniker Name="/AutoDeskDataContext/TblCarCompany" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b7cc09ff-0c69-417c-9213-1fbc3d021960" absoluteBounds="2.89, 1.46, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c0c650f2-3e9b-49aa-a758-4f91310dc428" absoluteBounds="5, 0.875, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/AutoDeskDataContext/TblCarModel" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c450c44f-a637-44ba-b7f6-460f38a50344" absoluteBounds="5.015, 1.335, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="77e82289-f3c5-4522-b7bb-17a02ed96757" absoluteBounds="0.625, 0.875, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/AutoDeskDataContext/TblPurchaser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1cfcfaed-f46f-4806-9926-e1ebb6863470" absoluteBounds="0.64000000000000012, 1.335, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

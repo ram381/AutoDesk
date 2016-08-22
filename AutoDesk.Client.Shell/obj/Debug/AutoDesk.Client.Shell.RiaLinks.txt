@@ -1,0 +1,3 @@
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Common\AutoDesk.Client.Common.csproj,636052196351780691,
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.Client.Proxy\AutoDesk.Client.Proxy.csproj,636047958493287579,
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.PCL.Common\AutoDesk.PCL.Common.csproj,636052196352093176,

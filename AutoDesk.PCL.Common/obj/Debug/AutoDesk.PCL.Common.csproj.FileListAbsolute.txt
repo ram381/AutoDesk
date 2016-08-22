@@ -1,0 +1,10 @@
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.PCL.Common\bin\Debug\AutoDesk.PCL.Common.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.PCL.Common\bin\Debug\AutoDesk.PCL.Common.pdb
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.PCL.Common\obj\Debug\AutoDesk.PCL.Common.dll
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.PCL.Common\obj\Debug\AutoDesk.PCL.Common.pdb
+D:\Development Environment Setup\Projects\AutoDesk\AutoDesk.PCL.Common\obj\Debug\AutoDesk.PCL.Common.csprojResolveAssemblyReference.cache
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.PCL.Common\bin\Debug\AutoDesk.PCL.Common.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.PCL.Common\bin\Debug\AutoDesk.PCL.Common.pdb
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.PCL.Common\obj\Debug\AutoDesk.PCL.Common.csprojResolveAssemblyReference.cache
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.PCL.Common\obj\Debug\AutoDesk.PCL.Common.dll
+C:\Users\BRam\Desktop\AutoDesk\AutoDesk.PCL.Common\obj\Debug\AutoDesk.PCL.Common.pdb

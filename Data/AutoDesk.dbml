@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="AutoDeskDB" Class="AutoDeskDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=AutoDeskDB;Integrated Security=True" SettingsObjectName="Data.Properties.Settings" SettingsPropertyName="AutoDeskDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.TblCarCompany" Member="TblCarCompanies">
+    <Type Name="TblCarCompany">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Phone" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Owner" Type="System.String" DbType="VarChar(25)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TblCarModel" Member="TblCarModels">
+    <Type Name="TblCarModel">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="[Model Number]" Member="Model_Number" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CompanyId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="[Part No]" Member="Part_No" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="[Serial No]" Member="Serial_No" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Milege" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Cost" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TblPurchaser" Member="TblPurchasers">
+    <Type Name="TblPurchaser">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="[Home Phone]" Member="Home_Phone" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="[Cell Phone]" Member="Cell_Phone" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="CarModelId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
